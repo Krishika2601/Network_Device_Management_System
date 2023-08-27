@@ -54,9 +54,9 @@ Description: Developed a network device management system using Java Spring Boot
 ## Installation
 
 1. Clone this repository.
-2. Open the project in your favorite IDE.
+2. Open the project in your Eclipse IDE.
 3. Configure MySQL at port 3306, and update application.properties with your database value
-4. Build and run the project.
+4. Build and run the project as springboot app.
 
 ## Usage
 
